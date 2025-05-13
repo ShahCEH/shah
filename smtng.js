@@ -7,3 +7,6 @@ console.log("ji");
 
 
 // adding a line in hub and pulling it to the local repo
+
+
+// adding another line in dup2 and trying to pull to create a conflict in main
