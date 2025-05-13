@@ -1,7 +1,7 @@
 console.log("hi");
 console.log();
 
-console.log("ji");
+console.log("jhjvjvjhvjhvi");
 
 //commenting something to see if its getting reflectedd in the local 
 
@@ -11,4 +11,5 @@ console.log("ji");
 
 // adding another line in dup2 and trying to pull to create a conflict in main
 
-//updating the dup2 alone
+// now adding a new line in dup 2 to push to cloud
+
